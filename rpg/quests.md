@@ -3,8 +3,6 @@
 Ce document liste les quêtes actives du système RPG.  
 Il ne définit pas les objectifs : il référence et structure ceux issus de `roadmap.md` et `side-quests.md`.
 
----
-
 ## Main Quests
 
 ### MQ-01 — Backend template prêt pour la production
@@ -17,8 +15,6 @@ Il ne définit pas les objectifs : il référence et structure ceux issus de `ro
 
 - Un dépôt backend prêt à être cloné pour un projet client
 
----
-
 ### MQ-02 — Produit full-stack minimal
 
 - Construire une UI complète consommant une API backend
@@ -28,8 +24,6 @@ Il ne définit pas les objectifs : il référence et structure ceux issus de `ro
 **Livrable attendu**
 
 - Un produit full-stack fonctionnel, utilisable par un tiers
-
----
 
 ### MQ-03 — Service déployé et opéré
 
@@ -42,8 +36,6 @@ Il ne définit pas les objectifs : il référence et structure ceux issus de `ro
 - Un service accessible publiquement ou en environnement réel
 - Une documentation de déploiement et d’exploitation
 
----
-
 ### MQ-04 — Découpage d’un forfait simple
 
 - Définir le périmètre d’un projet fictif
@@ -54,8 +46,6 @@ Il ne définit pas les objectifs : il référence et structure ceux issus de `ro
 
 - Un document de cadrage de forfait simple
 
----
-
 ### MQ-05 — Déploiement automatisé avec rollback
 
 - Introduire Docker comme outil de reproductibilité
@@ -65,8 +55,6 @@ Il ne définit pas les objectifs : il référence et structure ceux issus de `ro
 **Livrable attendu**
 
 - Un pipeline de déploiement automatisé documenté
-
----
 
 ## Side Quests
 
@@ -79,8 +67,6 @@ Il ne définit pas les objectifs : il référence et structure ceux issus de `ro
 
 - Un projet de test documenté
 
----
-
 ### SQ-02 — Intégration IA simple
 
 - Intégrer une brique IA dans un produit existant
@@ -90,8 +76,6 @@ Il ne définit pas les objectifs : il référence et structure ceux issus de `ro
 
 - Une fonctionnalité IA fonctionnelle ou un POC documenté
 
----
-
 ### SQ-03 — Concepts systèmes ciblés
 
 - Explorer un concept système précis (IO, mémoire, concurrence, etc.)
@@ -100,8 +84,6 @@ Il ne définit pas les objectifs : il référence et structure ceux issus de `ro
 **Livrable attendu**
 
 - Une note technique liée à un cas réel
-
----
 
 ## Règles de validation
 

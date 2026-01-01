@@ -9,16 +9,12 @@ dans un cadre professionnel rentable (missions au forfait, produits propres).
 Ce n’est ni un CV, ni une liste exhaustive de technologies.
 C’est une **cartographie de responsabilités et de maîtrise**.
 
----
-
 ## Niveaux de maîtrise (référentiel interne)
 
 - **Fondations** : je comprends, je sais exécuter avec support
 - **Autonomie** : je livre seul en production
 - **Maîtrise** : je fais des choix, j’anticipe les problèmes
 - **Expertise pragmatique** : je simplifie, j’optimise, je transmets
-
----
 
 ## 1. Architecture & Conception Produit (cœur)
 
@@ -40,8 +36,6 @@ C’est une **cartographie de responsabilités et de maîtrise**.
 - Concevoir pour l’évolution sans sur-ingénierie
 - Savoir dire non à une feature mal définie
 
----
-
 ## 2. Backend Engineering (socle principal)
 
 ### Fondations
@@ -61,8 +55,6 @@ C’est une **cartographie de responsabilités et de maîtrise**.
 - Optimiser les performances réelles (pas micro-optimisation)
 - Diagnostiquer bugs et comportements non déterministes
 - Concevoir des backends observables et auditables
-
----
 
 ## 3. Bases de données & Persistance
 
@@ -84,8 +76,6 @@ C’est une **cartographie de responsabilités et de maîtrise**.
 - Identifier les vrais goulots d’étranglement
 - Prévenir les corruptions et pertes de données
 
----
-
 ## 4. Frontend (objectif : autonomie produit)
 
 ### Fondations
@@ -105,8 +95,6 @@ C’est une **cartographie de responsabilités et de maîtrise**.
 - Simplifier l’UX sans framework magique
 - Faire des choix UI orientés efficacité utilisateur
 - Intégrer le front comme partie du produit, pas comme couche décorative
-
----
 
 ## 5. Infrastructure & Déploiement (outil, pas finalité)
 
@@ -128,8 +116,6 @@ C’est une **cartographie de responsabilités et de maîtrise**.
 - Diagnostiquer incidents de production
 - Choisir la solution la plus simple qui fonctionne
 
----
-
 ## 6. Qualité, Fiabilité & Maintenance
 
 ### Fondations
@@ -149,8 +135,6 @@ C’est une **cartographie de responsabilités et de maîtrise**.
 - Réduire le coût de maintenance dans le temps
 - Savoir quand ne pas tester
 - Construire des systèmes robustes par design
-
----
 
 ## 7. Delivery & Travail au Forfait (critique)
 
@@ -172,8 +156,6 @@ C’est une **cartographie de responsabilités et de maîtrise**.
 - Transformer un besoin flou en contrat clair
 - Livrer sans s’épuiser
 
----
-
 ## 8. IA & Sujets Avancés (side quests structurées)
 
 > Ces compétences **ne sont jamais prioritaires sur la capacité à livrer**.
@@ -194,16 +176,12 @@ C’est une **cartographie de responsabilités et de maîtrise**.
 - Éviter le solutionnisme technologique
 - Rester pragmatique face au hype cycle
 
----
-
 ## Philosophie générale
 
 - La valeur vient de ce qui est **livré**, pas de ce qui est connu
 - La simplicité est une compétence avancée
 - Chaque choix technique est un pari économique
 - L’objectif final est l’autonomie, pas l’expertise isolée
-
----
 
 ## Utilisation recommandée
 

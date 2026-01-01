@@ -11,8 +11,6 @@ Le RPG est **strictement subordonné** aux documents principaux du dépôt (`ski
 - rendre la progression visible et mesurable,
 - éviter l’auto-illusion sur l’apprentissage.
 
----
-
 ## Principe fondamental
 
 > **Aucune progression n’est accordée sans livrable concret.**
@@ -23,8 +21,6 @@ Le système mesure des faits (projets livrés, décisions prises, outils constru
 - de la lecture,
 - de la veille,
 - ou des intentions.
-
----
 
 ## Contenu du dossier
 
@@ -42,8 +38,6 @@ Le système mesure des faits (projets livrés, décisions prises, outils constru
 - `log.md`  
   Journal factuel des quêtes complétées, avec date, impact sur les statistiques et lien vers le livrable associé.
 
----
-
 ## Règles d’utilisation
 
 - Le RPG ne définit pas les objectifs : il les mesure.
@@ -51,16 +45,12 @@ Le système mesure des faits (projets livrés, décisions prises, outils constru
 - Le RPG ne justifie pas l’inaction ou la dispersion.
 - Si le système devient plus complexe que ce qu’il mesure, il doit être simplifié.
 
----
-
 ## Fréquence de mise à jour
 
 - `log.md` : après chaque quête validée
 - `stats.md` : uniquement suite à une validation
 - `quests.md` : lors des ajustements de la roadmap
 - `rpg.md` : rarement, après recul suffisant
-
----
 
 ## Avertissement
 

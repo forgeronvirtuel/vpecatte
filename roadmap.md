@@ -22,8 +22,6 @@ Règle principale :
 
 > Chaque étape doit améliorer ma capacité à **construire, déployer et maintenir un produit seul**.
 
----
-
 ## Horizon 1 — 1 mois
 
 ### Objectif : autonomie produit minimale et fiable
@@ -36,8 +34,6 @@ Règle principale :
 - le développer de bout en bout,
 - le déployer proprement,
 - le maintenir sans friction.
-
----
 
 ### Backend
 
@@ -52,8 +48,6 @@ Règle principale :
 
 - Un backend type, prêt à être cloné pour un projet client
 
----
-
 ### Frontend
 
 - Être capable de produire une interface complète (pas parfaite)
@@ -67,8 +61,6 @@ Règle principale :
 
 - Une UI fonctionnelle consommant ton backend
 
----
-
 ### Déploiement / Infra
 
 - Formaliser ton process actuel (même manuel)
@@ -81,8 +73,6 @@ Règle principale :
 
 - Un service en production avec un process documenté
 
----
-
 ### Business / Forfait
 
 - Découper un projet fictif en livrables vendables
@@ -90,8 +80,6 @@ Règle principale :
   - risques
   - zones floues
   - dépendances client
-
----
 
 ## Horizon 2 — 6 mois
 
@@ -105,16 +93,12 @@ Règle principale :
 - estimer honnêtement,
 - livrer sans réécriture complète.
 
----
-
 ### Architecture
 
 - Savoir concevoir une architecture :
   - évolutive sans complexité inutile
   - lisible pour toi dans le temps
 - Rendre la dette visible et assumée
-
----
 
 ### Backend
 
@@ -124,15 +108,11 @@ Règle principale :
   - migrations sans douleur
 - Concevoir des APIs stables
 
----
-
 ### Frontend
 
 - Maintenir un front dans la durée
 - Améliorer l’UX sans refonte permanente
 - Comprendre l’impact des choix UI sur le support client
-
----
 
 ### Infra / Déploiement
 
@@ -140,23 +120,17 @@ Règle principale :
 - Mettre en place un déploiement automatisé simple
 - Être capable de rollback rapidement
 
----
-
 ### Qualité / Fiabilité
 
 - Tests utiles sur les zones critiques
 - Logs exploitables
 - Monitoring minimal mais actionnable
 
----
-
 ### Business / Relation client
 
 - Verrouiller le périmètre contractuel
 - Protéger ton temps
 - Livrer par itérations maîtrisées
-
----
 
 ## Horizon 3 — 1 an
 
@@ -170,15 +144,11 @@ Règle principale :
 - le faire évoluer,
 - le maintenir sans surcharge mentale.
 
----
-
 ### Systèmes
 
 - Concevoir pour la résilience
 - Anticiper la croissance raisonnable
 - Simplifier plutôt qu’empiler
-
----
 
 ### Infra
 
@@ -186,15 +156,11 @@ Règle principale :
 - Diagnostiquer incidents complexes
 - Choisir l’infrastructure la plus simple viable
 
----
-
 ### Produit
 
 - Prioriser les fonctionnalités à impact réel
 - Éviter le “feature creep”
 - Lier technique, UX et business
-
----
 
 ### Positionnement
 
@@ -202,8 +168,6 @@ Règle principale :
   - un builder fiable
   - pas un exécutant de tickets
 - Capitaliser sur tes propres outils / templates
-
----
 
 ## Horizon long terme — au-delà
 
@@ -214,15 +178,11 @@ Règle principale :
 - Intégrer l’IA uniquement si elle apporte un avantage produit réel
 - T’orienter progressivement vers tes propres produits
 
----
-
 ## Règles anti-dispersion
 
 - Pas de nouvelle techno sans usage concret
 - Pas de side quest si un produit est en cours
 - Pas de perfectionnisme bloquant
-
----
 
 ## Relecture recommandée
 

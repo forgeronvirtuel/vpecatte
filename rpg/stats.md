@@ -4,8 +4,6 @@
 
 Level: 1
 
----
-
 ## Statistiques
 
 Engineering: 3  
@@ -13,8 +11,6 @@ Delivery: 2
 Autonomy: 2  
 Product Sense: 1  
 Leverage: 1
-
----
 
 ## Notes
 

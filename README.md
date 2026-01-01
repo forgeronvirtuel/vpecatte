@@ -7,8 +7,6 @@ Ce dépôt documente et structure ma progression professionnelle en tant qu’in
 Il ne s’agit ni d’un CV, ni d’un portfolio, ni d’un document de communication.  
 C’est un **dépôt de travail**, utilisé pour clarifier des objectifs, piloter des efforts d’apprentissage et maintenir un alignement entre montée en compétences et livraison concrète.
 
----
-
 ## Structure du dépôt
 
 - `skills.md`  
@@ -24,8 +22,6 @@ C’est un **dépôt de travail**, utilisé pour clarifier des objectifs, pilote
   Couche de gamification légère servant à suivre la progression via des quêtes, des statistiques et des validations factuelles.  
   Ce système reste strictement subordonné aux documents principaux et n’existe que comme outil de pilotage personnel.
 
----
-
 ## Principes directeurs
 
 - La livraison prime sur l’accumulation de connaissances
@@ -37,15 +33,11 @@ Toute compétence, quête ou évolution doit contribuer à la capacité de :
 
 > **concevoir, livrer, opérer et faire évoluer des produits logiciels de manière indépendante**
 
----
-
 ## Politique de mise à jour
 
 - Les documents sont mis à jour après des étapes significatives (projets, livraisons, décisions structurantes)
 - Aucune mise à jour cosmétique ou artificielle
 - La progression reflète des capacités et responsabilités réellement exercées
-
----
 
 ## Public visé
 
@@ -59,8 +51,6 @@ Secondaire :
 - Collaborateurs ou clients à profil technique
 
 Ce dépôt n’a pas vocation à être exhaustif, pédagogique ou universellement compréhensible.
-
----
 
 ## Avertissement
 

@@ -12,15 +12,11 @@ Il ne définit pas les objectifs.
 Il ne remplace aucun document.  
 Il sert uniquement à **rendre la progression explicite et traçable**.
 
----
-
 ## Principe fondamental
 
 > **Aucune progression n’est accordée sans livrable vérifiable.**
 
 Lecture, veille, réflexion ou expérimentation sans résultat exploitable ne donnent lieu à aucune progression.
-
----
 
 ## Structure du système
 
@@ -30,8 +26,6 @@ Le niveau représente l’**étendue du champ d’action réel**, pas un statut.
 
 - Il augmente uniquement après validation de quêtes majeures.
 - Il n’a pas de plafond prédéfini.
-
----
 
 ### Statistiques
 
@@ -55,8 +49,6 @@ Le système repose sur **5 statistiques maximum** :
 Les statistiques sont des **entiers**.  
 Aucune progression fractionnaire n’est autorisée.
 
----
-
 ## Quêtes
 
 ### Quêtes principales (Main Quests)
@@ -70,8 +62,6 @@ Validation requise pour :
 - montée de niveau
 - progression majeure des statistiques
 
----
-
 ### Quêtes secondaires (Side Quests)
 
 - Issues de `side-quests.md`
@@ -79,8 +69,6 @@ Validation requise pour :
 - Bornées dans le temps
 
 Elles peuvent améliorer une statistique de manière limitée, sans impact majeur sur le niveau.
-
----
 
 ## Validation d’une quête
 
@@ -92,8 +80,6 @@ Une quête est considérée comme validée uniquement si :
 
 Sans ces trois éléments, la quête est invalide.
 
----
-
 ## Attribution de la progression
 
 - Toute progression doit être :
@@ -104,8 +90,6 @@ Sans ces trois éléments, la quête est invalide.
 
 Si une progression paraît “facile”, c’est que les règles sont mal appliquées.
 
----
-
 ## Anti-règles
 
 - Pas d’XP basée sur le temps passé
@@ -113,15 +97,11 @@ Si une progression paraît “facile”, c’est que les règles sont mal appliq
 - Pas de récompense pour la simple intention
 - Pas d’optimisation du système au détriment de la livraison
 
----
-
 ## Révision du système
 
 - Les règles peuvent être ajustées avec du recul
 - Toute modification doit simplifier le système, jamais l’alourdir
 - Le système doit rester compréhensible en une lecture rapide
-
----
 
 ## Rappel
 
